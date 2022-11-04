@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[VISIT OUR GALLERY HERE 💕](https://avinash201199.github.io/My-Gallery-4u/) </div>
+[VISIT OUR GALLERY HERE 💕](https://0AIB.github.io/Lx-Gallery/) </div>
 
 <br>
 
