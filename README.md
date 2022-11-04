@@ -1,8 +1,10 @@
-# LX GALLERY
+## LX GALLERY
+## [Original Repo](https://github.com/avinash201199/My-Gallery-4u)
 
-<div align="center">
+### <div align="center">
 
-[VISIT OUR GALLERY HERE 💕](https://0AIB.github.io/Lx-Gallery/) </div>
+|[VISIT OUR GALLERY HERE 💕](https://0AIB.github.io/Lx-Gallery/) </div>
+|---
 
 <br>
 
