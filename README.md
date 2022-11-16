@@ -10,7 +10,7 @@
 - [Contributing Guidelines HERE](https://github.com/0AIB/Lx-Gallery/blob/master/Guidelines.md)
 <br>
 
-## Repo Status 
+### Repo Status 
 
 <br>
 
